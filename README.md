@@ -22,6 +22,13 @@ The compiled version will run on Windows and Linux. But it is designed for CMD c
 You can try more complex commands as you like. 
 ```
 
+## Usage example:
+Some usage examples on the command netstat:
+
+![FORcoder](https://user-images.githubusercontent.com/44269971/229361204-7de5edc2-c6e6-4450-8653-984f4603e587.PNG)
+![FORcoder_2](https://user-images.githubusercontent.com/44269971/229361210-fdcb58f7-3748-4367-b78d-60f8946e2d96.PNG)
+![dynamic_FORcoder](https://user-images.githubusercontent.com/44269971/229361212-38d6bd92-8563-4d84-b079-bbf246871733.PNG)
+
 ## Thanks
 Thanks to Edinburgh Napier University and its academic community
 
