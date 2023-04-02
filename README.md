@@ -1,4 +1,5 @@
 # FORcoder
+![FORcoder3](https://user-images.githubusercontent.com/44269971/229361148-c27c8fa7-b547-47be-be67-3b48d52048dc.PNG)
 
 FORcoder implemented an simple obfuscation technique that works on any Windows CMD Command environment
 In paper [Orchestration of APT malware evasive manoeuvers employed for eluding anti-virus and sandbox defense](https://www.sciencedirect.com/science/article/pii/S0167404822000268), Authors of the paper proposed a novel framework called Evasive Manoeuver Re-Engineering Framework (EMRF) which can effectively evade modern AV/defender engines by modifying existing N-day payloads. The EMRF contains a series of techniques include this tiny and simple FORcoding. Authors used a static FORcoding to obfuscate their CMD commands to execute whatever commands they like. 
