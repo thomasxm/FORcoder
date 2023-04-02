@@ -8,8 +8,10 @@ FORcoding technique itself is simple and self-explanatory. However, it is a pain
 Basically, I created this small C code to automate this process. The code could automatically create the array of indices and 'unique' character sets for you. You can tweak the commands you want to execute based on your specific needs, the code will serve the obfuscated code on a silver platter to you. Also, the picking of unique string from left to right is predictable. So, I modofied the original algorithm and made it a bit more unpredictable. The algorithm now generates a shuffled unique string that not necessarily pick the unique character from left to right. It's now called *pseudo random or dynamic FORcoding.* 
 
 ## Compilation: 
-Both .c files can be complied with MinGW-w64 complier or visual basic. x86_64-w64-mingw32-gcc forcoder.c -o forcoder
-
+Both .c files can be complied with MinGW-w64 complier or visual basic. 
+```
+x86_64-w64-mingw32-gcc forcoder.c -o forcoder
+```
 The compiled version will run on Windows and Linux. But it is designed for CMD commands, so why Linux? 
 
 ## Usage is simple: 
